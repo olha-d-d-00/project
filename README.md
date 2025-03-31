@@ -36,10 +36,9 @@ project/
 
 ## ⚙️ Як запустити
 
- Python 3.10+  
- Рекомендується створити віртуальне середовище:
+Python 3.10+  
+Рекомендується створити віртуальне середовище:
 
-```bash
 python -m venv .venv
 source .venv/bin/activate    # Linux/macOS
 .\.venv\Scripts\activate     # Windows
